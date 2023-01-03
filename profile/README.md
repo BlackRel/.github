@@ -1,6 +1,5 @@
 ![YouTube Thumbnail (1)](https://user-images.githubusercontent.com/77285384/209733282-90307706-5837-4239-9f4c-6d746d32102d.png)
 
-
 # BlackRel Community Code of Conduct
 
 - Be respectful and courteous to others. Avoid using language that is offensive, derogatory, or discriminatory. This includes refraining from using derogatory language, slurs, or engaging in personal attacks.
@@ -20,3 +19,6 @@
 - Follow all Discord rules and guidelines. If you are unsure of what is allowed, ask a moderator or refer to Discord's terms of service.
 
 *By following these guidelines, you can help create a positive and inclusive environment for the BlackRel Community.*
+
+
+# >>>>>>>> [Join our community!](https://docs.google.com/forms/d/e/1FAIpQLSeidgo7dYRQ8H3QQDfrGVbZq4nDBnnFeh8xeGCeCdi99LAKkg/viewform?usp=sf_link) <<<<<<<<
