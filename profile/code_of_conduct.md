@@ -20,5 +20,3 @@
 
 *By following these guidelines, you can help create a positive and inclusive environment for the BlackRel Community.*
 
-
-# >>>>>>>>>>>> [Join our community!](https://docs.google.com/forms/d/e/1FAIpQLSeidgo7dYRQ8H3QQDfrGVbZq4nDBnnFeh8xeGCeCdi99LAKkg/viewform?usp=sf_link) <<<<<<<<<<<<
