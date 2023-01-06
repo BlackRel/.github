@@ -1,6 +1,4 @@
 name: Send email
-  # You may pin to the exact commit or the version.
-  # uses: cinotify/github-action@d99e3149178b27572a58ace227621c333884e3fb
   uses: cinotify/github-action@v1.1.0
   with:
     # Recipient email address
