@@ -1,9 +1,9 @@
 name: Send email
-  uses: cinotify/github-action@v1.1.0
-  with:
-    # Recipient email address
-    to: 
-    # Email subject
-    subject: # optional
-    # Email body
-    body: # optional
+uses: cinotify/github-action@v1.1.0
+with:
+# Recipient email address
+to: 
+# Email subject
+subject: # optional
+# Email body
+body: # optional
