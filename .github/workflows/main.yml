@@ -1,4 +1,4 @@
-- name: CINotify Email
+name: CINotify Email
   # You may pin to the exact commit or the version.
   # uses: cinotify/github-action@d99e3149178b27572a58ace227621c333884e3fb
   uses: cinotify/github-action@v1.1.0
